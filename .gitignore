@@ -1,2 +1,4 @@
 # 不上传thesis/.obsidian
 thesis/.obsidian
+thesis/*.docx
+thesis/*.doc
